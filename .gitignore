@@ -28,5 +28,5 @@ htmlcov/
 .envrc
 .direnv
 
-simple_jwt_api.yml
-iam-role-polisy.json
+.simple_jwt_api.yml
+.iam-role-polisy.json

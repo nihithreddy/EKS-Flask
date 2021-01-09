@@ -28,5 +28,6 @@ htmlcov/
 .envrc
 .direnv
 
-simple_jwt_api.yml
+
+trust.json
 iam-role-policy.json

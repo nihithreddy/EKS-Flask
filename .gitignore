@@ -29,5 +29,5 @@ htmlcov/
 .direnv
 
 
-/trust.json
-/iam-role-policy.json
+trust.json/
+iam-role-policy.json/
